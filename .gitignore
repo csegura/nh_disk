@@ -1,0 +1,15 @@
+*.bak
+*.tmp
+*~*
+*.kicad_sch-autosave
+*.kicad_pcb-autosave
+**/*-backups
+**/*-bak
+*.drl
+*.gbr
+*.zip
+*.pdf
+*.svg
+*.step
+*.stp
+*.3dshapes/
